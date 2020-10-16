@@ -18,4 +18,3 @@ def dates_2W_apart():
 dates_2W_apart()
 
 
-
